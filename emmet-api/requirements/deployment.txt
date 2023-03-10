@@ -62,7 +62,7 @@ envier==0.4.0
     # via ddtrace
 exceptiongroup==1.1.0
     # via cattrs
-fastapi==0.92.0
+fastapi==0.94.0
     # via
     #   emmet-api (emmet/emmet-api/setup.py)
     #   maggma

@@ -78,7 +78,7 @@ exceptiongroup==1.1.0
     # via
     #   cattrs
     #   pytest
-fastapi==0.92.0
+fastapi==0.94.0
     # via
     #   emmet-api (setup.py)
     #   maggma

@@ -60,7 +60,7 @@ cycler==0.11.0
     # via matplotlib
 ddsketch==2.0.4
     # via ddtrace
-ddtrace==1.8.0
+ddtrace==1.9.3
     # via emmet-api (setup.py)
 distlib==0.3.6
     # via virtualenv

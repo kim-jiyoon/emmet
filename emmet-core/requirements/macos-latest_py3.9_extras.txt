@@ -268,7 +268,7 @@ pycodestyle==2.10.0
     #   flake8
 pycparser==2.21
     # via cffi
-pydantic==1.10.5
+pydantic==1.10.6
     # via
     #   emmet-core
     #   emmet-core (setup.py)
